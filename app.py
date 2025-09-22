@@ -1,1 +1,1 @@
-print("Resolved version")
+print("brach B resolved version")
